@@ -4,5 +4,6 @@ class Program
     {
         TicTacToeGame game = new TicTacToeGame();
         game.Game();
+        game.Choose();
     }
 }
